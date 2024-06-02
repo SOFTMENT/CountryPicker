@@ -152,4 +152,4 @@ For page title and close button text you can set localized text with `Configrati
 - [x] Support below iOS 13.
   
 ---
-Developed with 🖤 at [SOFTMENT](https://spftment.com/)
+Developed with 🖤 at [SOFTMENT](https://softment.com/)

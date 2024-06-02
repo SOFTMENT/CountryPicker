@@ -18,7 +18,7 @@ Currently CountryPicker is only avaliable via SPM. You can also add manually to 
 If you have already Swift package set up, add CountryPicker as a dependency to your dependencies in your `Package.swift` file.
 ```swift
 dependencies: [
-    .package(url: "https://github.com/mobven/CountryPicker.git")
+    .package(url: "https://github.com/SOFTMENT/CountryPicker.git")
 ]
 ```
 
@@ -152,4 +152,4 @@ For page title and close button text you can set localized text with `Configrati
 - [x] Support below iOS 13.
   
 ---
-Developed with 🖤 at [Mobven](https://mobven.com/)
+Developed with 🖤 at [SOFTMENT](https://spftment.com/)
